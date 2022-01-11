@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">XboxProfile</string>
+
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+
+    <string name="xbox_profile_photo">Xbox Profile photo</string>
+    <string name="score_text">score: %1$d</string>
+    <string name="achievements">Achievements</string>
+
+    <string name="loading">Loading...</string>
+    <string name="achievement_icon">Achievement icon</string>
+</resources>
